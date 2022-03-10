@@ -11,4 +11,4 @@ I'm 27 years old and specializing on FrontEnd (React / Typescript).
 * I am interested in algorithms, speeding up work and improving the quality of the code;
 
 
-# If you have an interesting project - don't hesitate to contact me by email ✌️
+#### If you have an interesting project - don't hesitate to contact me by email ✌️
