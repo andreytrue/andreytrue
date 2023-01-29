@@ -1,13 +1,13 @@
 ### Hi 👋, my name is Andrey Demyanov.
 
-I'm 27 years old and specializing on FrontEnd (React / Typescript).
+I'm 27 years old and specializing on FrontEnd.
 
 ## Technologies
 
-* I'm writing on React + TypeScript;
-* For state control I use Redux (frequently);
+* I'm writing on NextJS/React + TypeScript;
+* For state control I can use Redux, MobX or react-query;
 * I know how to make styles semantically, adaptively and cross-browser;
-* For styling can use pure CSS, SCSS/LESS, MaterialUI (MUI);
+* For styling can work with CSS, SCSS/LESS, MaterialUI (MUI) or Tailwind CSS;
 * I am interested in algorithms, speeding up work and improving the quality of the code;
 
 
